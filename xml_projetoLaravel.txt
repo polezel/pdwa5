@@ -1,0 +1,32 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+
+<data>
+    <item>
+        <Nome>Tigela de Mistura</Nome>
+        <Material>Plástico</Material>
+        <Cor>Branca</Cor>
+        <Uso>Misturar</Uso>
+        <Capacidade>2</Capacidade>
+    </item>
+    <item>
+        <Nome>Copo Medidor</Nome>
+        <Material>Vidro</Material>
+        <Cor>Transparente</Cor>
+        <Uso>Medir</Uso>
+        <Capacidade>0.50</Capacidade>
+    </item>
+    <item>
+        <Nome>Jarra de Liquidificador</Nome>
+        <Material>Plástico</Material>
+        <Cor>Preta</Cor>
+        <Uso>Liquidificar</Uso>
+        <Capacidade>1.50</Capacidade>
+    </item>
+    <item>
+        <Nome>Panela de Pressão</Nome>
+        <Material>Aço Inoxidável</Material>
+        <Cor>Prata</Cor>
+        <Uso>Cozinhar</Uso>
+        <Capacidade>6</Capacidade>
+    </item>
+</data>
